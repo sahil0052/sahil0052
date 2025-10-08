@@ -81,4 +81,8 @@ I specialize in **Java** and **Python**, crafting solutions that combine strong 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahil0052/sahil0052/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>![banner](https://github.com/user-attachments/assets/ba04c35f-dc9e-405b-9077-09593600b86a)
+</p>
+
+---
+
+**Made with 💚 by Sahil Sharma**
