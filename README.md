@@ -1,7 +1,6 @@
-<img width="677" height="603" alt="banner" src="https://github.com/user-attachments/assets/88993a69-c7d8-46ab-b256-42a83ccbca80" />
-<!-- ====== BANNER AT TOP ====== -->
+<!-- ====== ANIMATED SVG BANNER ====== -->
 <p align="center">
-  <img src="./banner.png" alt="Sahil Sharma - Java Python Developer" width="100%" style="border-radius: 12px;" />
+  <img src="./banner.svg" alt="Sahil Sharma - Java Python Developer" width="100%" />
 </p>
 
 <!-- ====== INTRO SECTION ====== -->
@@ -82,4 +81,4 @@ I specialize in **Java** and **Python**, crafting solutions that combine strong 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahil0052/sahil0052/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+</p>![banner](https://github.com/user-attachments/assets/ba04c35f-dc9e-405b-9077-09593600b86a)
