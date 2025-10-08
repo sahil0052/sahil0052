@@ -1,6 +1,6 @@
 <!-- ====== BANNER AT TOP ====== -->
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%" style="border-radius: 12px;" />
+  <img src="./banner.png" alt="Sahil Sharma - Java Python Developer" width="100%" style="border-radius: 12px;" />
 </p>
 
 <!-- ====== INTRO SECTION ====== -->
@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-I’m a **self-taught developer** from **New Delhi, India**, passionate about building fast, reliable, and elegant software systems.  
+I'm a **self-taught developer** from **New Delhi, India**, passionate about building fast, reliable, and elegant software systems.  
 I specialize in **Java** and **Python**, crafting solutions that combine strong backend logic with clean architecture and performance.
 
 - 💼 Working on personal frameworks and production-grade systems  
@@ -73,19 +73,12 @@ I specialize in **Java** and **Python**, crafting solutions that combine strong 
 
 ### 🧩 Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 ---
 
-### 🐍 Contribution Snake (Static / Works Immediately)
+### 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake-dark.svg?palette=1E90FF,FFA500,FFFFFF" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg?palette=1E90FF,FFA500,FFFFFF" />
-    <!-- Fallback -->
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg?palette=1E90FF,FFA500,FFFFFF" width="80%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/sahil0052/sahil0052/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
