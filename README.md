@@ -86,3 +86,13 @@ I specialize in **Java** and **Python**, crafting solutions that combine strong 
     <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake-dark.svg?palette=1E90FF,FFA500,FFFFFF" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg?palette=1E90FF,FFA500,FFFFFF" />
+    <!-- Fallback -->
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg?palette=1E90FF,FFA500,FFFFFF" width="80%" />
+  </picture>
+</p>
