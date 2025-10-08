@@ -77,7 +77,12 @@ I specialize in **Java** and **Python**, crafting solutions that combine strong 
 
 ---
 
+### 🐍 Contribution Snake (Works Immediately)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahil0052/sahil0052/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-<img width="677" height="603" alt="banner" src="https://github.com/user-attachments/assets/31f3eaad-c479-4614-9ad9-976ce7a3ea9d" />
