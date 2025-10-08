@@ -1,3 +1,4 @@
+<img width="677" height="603" alt="banner" src="https://github.com/user-attachments/assets/88993a69-c7d8-46ab-b256-42a83ccbca80" />
 <!-- ====== BANNER AT TOP ====== -->
 <p align="center">
   <img src="./banner.png" alt="Sahil Sharma - Java Python Developer" width="100%" style="border-radius: 12px;" />
