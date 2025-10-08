@@ -1,5 +1,4 @@
-<!-- Ban<img width="677" height="603" alt="image" src="https://github.com/user-attachments/assets/95e0e0f9-c672-4021-a042-0ab8c863de01" />
-ner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahil0052/sahil0052/main/banner.png" alt="Banner" width="100%" />
 </p>
@@ -34,4 +33,49 @@ I specialize in **Java** and **Python**, and I’m constantly pushing my limits 
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🧩 Featured Projects *(coming soon)*
+
+| Project | Description | Tech Stack |
+|:--|:--|:--|
+| **Enterprise Task Engine** | A backend microservice architecture for distributed task handling | Java, Spring Boot, Redis |
+| **Vision AI Framework** | Lightweight Python framework for computer vision workflows | Python, FastAPI |
+| **DevOps Dashboard** | Real-time CI/CD dashboard for developers | Docker, Node.js, MongoDB |
+
+> 💡 Repositories launching soon with complete documentation and live demos.
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil0052&show_icons=true&theme=github_dark&hide_border=true" alt="Sahil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0052&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:lavisarswat1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/sahil0052"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧩 Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahil0052/sahil0052/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<img width="677" height="603" alt="banner" src="https://github.com/user-attachments/assets/c74bdbe5-bfba-4a52-a9d8-9eb9363ea4c9" />
