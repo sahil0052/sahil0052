@@ -5,7 +5,7 @@
 
 <!-- ====== INTRO SECTION ====== -->
 <h1 align="center">👋 Hi, I'm Sahil Sharma</h1>
-<h3 align="center">Junior Smart Contract Developer | Web3 | Solidity | Ethereum</h3>
+<h3 align="center">Smart Contract Developer | Web3 | Solidity | Ethereum</h3>
 
 ---
 
