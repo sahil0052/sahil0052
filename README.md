@@ -1,53 +1,58 @@
 <!-- ====== ANIMATED SVG BANNER ====== -->
 <p align="center">
-  <img src="./banner.svg" alt="Sahil Sharma - Java Python Developer" width="100%" />
+  <img src="./banner.svg" alt="Sahil Sharma - Smart Contract Developer" width="100%" />
 </p>
 
 <!-- ====== INTRO SECTION ====== -->
 <h1 align="center">👋 Hi, I'm Sahil Sharma</h1>
-<h3 align="center">Expert Developer | Java & Python | Building Scalable, Modern Solutions</h3>
+<h3 align="center">Junior Smart Contract Developer | Web3 | Solidity | Ethereum</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm a **self-taught developer** from **New Delhi, India**, passionate about building fast, reliable, and elegant software systems.  
-I specialize in **Java** and **Python**, crafting solutions that combine strong backend logic with clean architecture and performance.
+I'm a **self-taught Smart Contract Developer** from **India**, focused on building **secure, efficient, and readable smart contracts** on **EVM-based blockchains**.  
+I actively learn Web3 by **building real-world Solidity projects** and exploring **DeFi and smart contract security**.
 
-- 💼 Working on personal frameworks and production-grade systems  
-- 🧩 Exploring system design, AI integration, and backend optimization  
-- 🌐 Always open to collaboration and innovative ideas  
-- 🏗️ Currently setting up new repositories showcasing enterprise-grade architecture and best practices  
+- 🔗 Specializing in **Solidity & Ethereum**
+- 🧠 Strong understanding of smart contract fundamentals
+- 💸 Experience with ETH payments, validations, and refund logic
+- 📚 Continuously learning DeFi, advanced Solidity, and security best practices
+- 🌍 Open to **remote Web3 opportunities (Global / US)**
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+#### ⛓️ Blockchain & Web3  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 
-#### 🧰 Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+#### 💻 Languages  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧰 Tools & Platforms  
+![Remix](https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-FE7A16?style=for-the-badge)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🧩 Featured Projects *(coming soon)*
+### 🧩 Featured Projects *(Learning & Building)*
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| **Enterprise Task Engine** | A backend microservice architecture for distributed task handling | Java, Spring Boot, Redis |
-| **Vision AI Framework** | Lightweight Python framework for computer vision workflows | Python, FastAPI |
-| **DevOps Dashboard** | Real-time CI/CD dashboard for developers | Docker, Node.js, MongoDB |
+| **ETH Deposit Contracts** | ETH validation using msg.value, require & payable | Solidity |
+| **Fixed Price Payment Contract** | Accepts exact ETH & refunds excess amount | Solidity |
+| **User Registry Contracts** | Address-based data storage using mappings & structs | Solidity |
+| **Web3 Practice Projects** | Beginner to intermediate Solidity use cases | Solidity, Ethereum |
 
-> 💡 Repositories launching soon with complete documentation and live demos.
+> 💡 All projects focus on **real-world smart contract logic** and clean Solidity patterns.
 
 ---
 
@@ -65,15 +70,15 @@ I specialize in **Java** and **Python**, crafting solutions that combine strong 
 
 <p align="left">
   <a href="mailto:lavisarswat1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/sahil0052"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sahil-sharma-624a87257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sahilsharma0052"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧩 Quote
 
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First make it work, then make it secure, then make it decentralized."
 
 ---
 
