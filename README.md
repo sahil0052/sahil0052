@@ -1,58 +1,64 @@
 <!-- ====== ANIMATED SVG BANNER ====== -->
 <p align="center">
-  <img src="./banner.svg" alt="Sahil Sharma - Smart Contract Developer" width="100%" />
+  <img src="./banner.svg" alt="Sahil Sharma - AI Agent Developer" width="100%" />
 </p>
 
 <!-- ====== INTRO SECTION ====== -->
 <h1 align="center">👋 Hi, I'm Sahil Sharma</h1>
-<h3 align="center">Smart Contract Developer | Web3 | Solidity | Ethereum</h3>
+<h3 align="center">AI Agent Developer | Automation | LLMs | LangChain</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm a **self-taught Smart Contract Developer** from **India**, focused on building **secure, efficient, and readable smart contracts** on **EVM-based blockchains**.  
-I actively learn Web3 by **building real-world Solidity projects** and exploring **DeFi and smart contract security**.
+I'm a **self-taught AI Agent Developer** from **India**, focused on building systems that go beyond chat —  
+**agents that can think, decide, and execute real-world tasks.**
 
-- 🔗 Specializing in **Solidity & Ethereum**
-- 🧠 Strong understanding of smart contract fundamentals
-- 💸 Experience with ETH payments, validations, and refund logic
-- 📚 Continuously learning DeFi, advanced Solidity, and security best practices
-- 🌍 Open to **remote Web3 opportunities (Global / US)**
+I learn by building practical, real-world projects involving:
+- Tool execution
+- Automation workflows
+- Multi-step reasoning using LLMs
+
+Currently focused on:
+- 🤖 AI agents with tool usage (LangChain, APIs, automation)
+- ⚙️ Structured outputs & reliable workflows
+- 🧠 Multi-step decision-making systems
+- 🌍 Real-world use cases (job agents, automation tools)
+
+> I believe: *AI becomes powerful when it moves from answering → executing.*
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### ⛓️ Blockchain & Web3  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+#### 🤖 AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
 
 #### 💻 Languages  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧰 Tools & Platforms  
-![Remix](https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge)
-![Hardhat](https://img.shields.io/badge/Hardhat-FE7A16?style=for-the-badge)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+#### 🧰 Tools & Libraries  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🧩 Featured Projects *(Learning & Building)*
+### 🧩 Featured Projects *(Building AI Agents)*
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| **ETH Deposit Contracts** | ETH validation using msg.value, require & payable | Solidity |
-| **Fixed Price Payment Contract** | Accepts exact ETH & refunds excess amount | Solidity |
-| **User Registry Contracts** | Address-based data storage using mappings & structs | Solidity |
-| **Web3 Practice Projects** | Beginner to intermediate Solidity use cases | Solidity, Ethereum |
+| **AI Task Execution Agent** | Agent that searches jobs, extracts data, and saves structured output | LangChain, Python |
+| **AI Research Agent** | Breaks queries into sub-tasks and gathers data from multiple sources | LangChain, APIs |
+| **Web Automation Agent** | Scrapes websites and processes real-world data automatically | Python, BeautifulSoup |
+| **Future Projects** | Multi-agent systems, autonomous workflows, production-level agents | In Progress |
 
-> 💡 All projects focus on **real-world smart contract logic** and clean Solidity patterns.
+> 💡 Focus: **Real execution > simple chatbots**
 
 ---
 
@@ -76,9 +82,17 @@ I actively learn Web3 by **building real-world Solidity projects** and exploring
 
 ---
 
+### 🧠 Current Focus
+
+- Building **real AI agents daily**
+- Improving **reliability & structured outputs**
+- Learning **how to move from prototypes → production systems**
+
+---
+
 ### 🧩 Quote
 
-> "First make it work, then make it secure, then make it decentralized."
+> "AI is not useful when it talks. It’s useful when it works."
 
 ---
 
@@ -90,4 +104,4 @@ I actively learn Web3 by **building real-world Solidity projects** and exploring
 
 ---
 
-**Made with 💚 by Sahil Sharma**
+**Building in public**
